@@ -29,6 +29,37 @@ body header {
           align-items: center;
 }
 
+body header div#account {
+  margin-right: 50px;
+}
+
+body header div#account a {
+  padding: 5px 10px;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+body header div#account a #username {
+  color: #000000;
+  font-size: 18px;
+  margin-right: 15px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+body header div#account a #flag img {
+  height: 45px;
+  border-radius: 5px;
+  vertical-align: middle;
+}
+
+body header div#account a:hover {
+  background-color: #f1f1f1;
+}
+
 body nav {
   position: absolute;
   bottom: 0;
