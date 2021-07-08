@@ -158,4 +158,45 @@ body section .featured-flag .article-widget .info a .read-more {
 body section .featured-flag .article-widget .info a .read-more:hover {
   background-color: #4a71ac;
 }
+
+body section .featured-quizzes {
+  padding-bottom: 40px;
+}
+
+body section .featured-quizzes .quiz-widget {
+  background-color: #ffffff;
+  padding: 15px;
+  width: 330px;
+}
+
+body section .featured-quizzes .quiz-widget img {
+  width: 300px;
+}
+
+body section .featured-quizzes .quiz-widget h1 {
+  overflow-wrap: break-word;
+  font-size: 25px;
+}
+
+body section .featured-quizzes .quiz-widget .flag-count {
+  color: #949494;
+  font-style: italic;
+  padding-bottom: 10px;
+}
+
+body section .featured-quizzes .quiz-widget a {
+  text-decoration: none;
+}
+
+body section .featured-quizzes .quiz-widget a .take-quiz {
+  background-color: #204596;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 10px;
+}
+
+body section .featured-quizzes .quiz-widget a .take-quiz:hover {
+  background-color: #4a71ac;
+}
 /*# sourceMappingURL=styles.css.map */
