@@ -131,24 +131,34 @@ body
             .quiz-widget
                 background-color: #ffffff
                 padding: 15px
-                width: 330px
+                float: left
+                margin-right: 10px
+                margin-bottom: 10px
+                width: 310px
+                height: 325px
 
                 img
-                    width: 300px
+                    display: block
+                    margin: auto
+                    height: 150px
+                    padding-bottom: 10px
 
                 h1
                     overflow-wrap: break-word
                     font-size: 25px
+                    height: 76px
+                    display: flex
+                    align-items: center
 
                 .flag-count
                     color: #949494
                     font-style: italic
                     padding-bottom: 10px
 
-                a
+                a.take-quiz
                     text-decoration: none
 
-                    .take-quiz
+                    div
                         background-color: #204596
                         color: #ffffff
                         text-transform: uppercase
@@ -157,3 +167,4 @@ body
 
                         &:hover
                             background-color: #4a71ac
+ 

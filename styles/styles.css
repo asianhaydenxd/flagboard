@@ -166,16 +166,30 @@ body section .featured-quizzes {
 body section .featured-quizzes .quiz-widget {
   background-color: #ffffff;
   padding: 15px;
-  width: 330px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  width: 310px;
+  height: 325px;
 }
 
 body section .featured-quizzes .quiz-widget img {
-  width: 300px;
+  display: block;
+  margin: auto;
+  height: 150px;
+  padding-bottom: 10px;
 }
 
 body section .featured-quizzes .quiz-widget h1 {
   overflow-wrap: break-word;
   font-size: 25px;
+  height: 76px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 body section .featured-quizzes .quiz-widget .flag-count {
@@ -184,11 +198,11 @@ body section .featured-quizzes .quiz-widget .flag-count {
   padding-bottom: 10px;
 }
 
-body section .featured-quizzes .quiz-widget a {
+body section .featured-quizzes .quiz-widget a.take-quiz {
   text-decoration: none;
 }
 
-body section .featured-quizzes .quiz-widget a .take-quiz {
+body section .featured-quizzes .quiz-widget a.take-quiz div {
   background-color: #204596;
   color: #ffffff;
   text-transform: uppercase;
@@ -196,7 +210,7 @@ body section .featured-quizzes .quiz-widget a .take-quiz {
   padding: 10px;
 }
 
-body section .featured-quizzes .quiz-widget a .take-quiz:hover {
+body section .featured-quizzes .quiz-widget a.take-quiz div:hover {
   background-color: #4a71ac;
 }
 /*# sourceMappingURL=styles.css.map */
