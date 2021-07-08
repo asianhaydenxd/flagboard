@@ -127,7 +127,7 @@ body section .featured-flag .article-widget {
   display: flex;
 }
 
-body section .featured-flag .article-widget img {
+body section .featured-flag .article-widget .flag img {
   height: 150px;
 }
 
@@ -175,7 +175,7 @@ body section .featured-quizzes .quiz-widget {
   height: 325px;
 }
 
-body section .featured-quizzes .quiz-widget img {
+body section .featured-quizzes .quiz-widget .flag img {
   display: block;
   margin: auto;
   height: 150px;
