@@ -113,7 +113,11 @@ body section h1 {
   padding-bottom: 10px;
 }
 
-body section .article-widget {
+body section .featured-flag {
+  padding-bottom: 40px;
+}
+
+body section .featured-flag .article-widget {
   background-color: #ffffff;
   padding: 15px;
   margin-right: 0;
@@ -122,28 +126,28 @@ body section .article-widget {
   display: flex;
 }
 
-body section .article-widget img {
+body section .featured-flag .article-widget img {
   height: 150px;
 }
 
-body section .article-widget .info {
+body section .featured-flag .article-widget .info {
   padding-left: 25px;
 }
 
-body section .article-widget .info h1 {
+body section .featured-flag .article-widget .info h1 {
   font-size: 30px;
   padding-bottom: 5px;
 }
 
-body section .article-widget .info p {
+body section .featured-flag .article-widget .info p {
   padding-bottom: 5px;
 }
 
-body section .article-widget .info a {
+body section .featured-flag .article-widget .info a {
   text-decoration: none;
 }
 
-body section .article-widget .info a .read-more {
+body section .featured-flag .article-widget .info a .read-more {
   background-color: #204596;
   color: #ffffff;
   text-transform: uppercase;
@@ -151,7 +155,7 @@ body section .article-widget .info a .read-more {
   padding: 5px 10px;
 }
 
-body section .article-widget .info a .read-more:hover {
+body section .featured-flag .article-widget .info a .read-more:hover {
   background-color: #4a71ac;
 }
 /*# sourceMappingURL=styles.css.map */
