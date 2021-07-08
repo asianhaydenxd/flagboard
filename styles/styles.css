@@ -121,6 +121,7 @@ body section .featured-flag .article-widget {
   background-color: #ffffff;
   padding: 15px;
   margin-right: 0;
+  margin-bottom: 10px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
