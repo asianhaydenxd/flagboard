@@ -12,6 +12,7 @@ body {
 
 body header {
   position: absolute;
+  top: 0;
   left: 250px;
   right: 0;
   height: 65px;
@@ -100,5 +101,57 @@ body nav div#links a div.link img {
 
 body nav div#links a div.link:hover {
   background-color: #f1f1f1;
+}
+
+body section {
+  margin: 65px 0 0 250px;
+  padding: 20px;
+}
+
+body section h1 {
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+
+body section .article-widget {
+  background-color: #ffffff;
+  padding: 15px;
+  margin-right: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body section .article-widget img {
+  height: 150px;
+}
+
+body section .article-widget .info {
+  padding-left: 25px;
+}
+
+body section .article-widget .info h1 {
+  font-size: 30px;
+  padding-bottom: 5px;
+}
+
+body section .article-widget .info p {
+  padding-bottom: 5px;
+}
+
+body section .article-widget .info a {
+  text-decoration: none;
+}
+
+body section .article-widget .info a .read-more {
+  background-color: #204596;
+  color: #ffffff;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+body section .article-widget .info a .read-more:hover {
+  background-color: #4a71ac;
 }
 /*# sourceMappingURL=styles.css.map */
