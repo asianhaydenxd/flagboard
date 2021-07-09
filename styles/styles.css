@@ -146,6 +146,7 @@ body section .featured-flag .article-widget .info .description {
 }
 
 body section .featured-flag .article-widget .info a {
+  float: left;
   text-decoration: none;
 }
 
@@ -159,6 +160,15 @@ body section .featured-flag .article-widget .info a .read-more {
 
 body section .featured-flag .article-widget .info a .read-more:hover {
   background-color: #4a71ac;
+}
+
+body section .featured-flag .article-widget .info .updated-time {
+  float: left;
+  margin-left: 10px;
+  line-height: 35px;
+  vertical-align: middle;
+  color: #949494;
+  font-style: italic;
 }
 
 body section .featured-quizzes {
