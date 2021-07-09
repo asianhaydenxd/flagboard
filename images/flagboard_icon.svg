@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="150"
-   height="85"
-   viewBox="0 0 39.687495 22.489586"
+   width="120"
+   height="84.099998"
+   viewBox="0 0 31.749996 22.251461"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -36,9 +36,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="2.940011"
-     inkscape:cy="36.043129"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="88.163236"
+     inkscape:cy="73.476182"
      inkscape:document-units="px"
      inkscape:current-layer="g946"
      showgrid="true"
@@ -48,7 +48,7 @@
      inkscape:pagecheckerboard="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      borderlayer="true"
@@ -101,13 +101,13 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Background"
-     transform="translate(0,-104.5104)"
+     transform="translate(0,-104.74852)"
      sodipodi:insensitive="true" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-274.5104)"
+     transform="translate(0,-274.74852)"
      style="opacity:1">
     <g
        id="g934"
@@ -119,14 +119,9 @@
          id="g946"
          transform="matrix(0.62535025,0,0,0.62535025,0.00194343,810.3793)">
         <path
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:145.07855225px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#4874e1;fill-opacity:1;stroke:none;stroke-width:8.46805191"
-           d="M -0.00343802,1743.8652 46.74178,1787.6938 -0.01550401,1830.8615 H 107.16728 v 63.5101 h 27.89543 v -150.5064 z"
-           id="path847"
-           inkscape:connector-curvature="0" />
-        <path
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:145.07855225px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.01712513;stroke-opacity:1"
-           d="m 212.57983,1743.8517 -59.54585,0.015 v 150.5082 h 4.01019 62.3213 c 15.62747,0 27.95179,-3.9441 36.08631,-12.3946 7.91518,-8.2197 11.9725,-18.6755 11.9725,-30.5512 0,-9.5535 -2.89603,-18.1701 -8.60606,-25.2694 -3.50544,-4.358 -8.12961,-7.6096 -13.50271,-10.0149 3.76161,-2.1231 7.05922,-4.8606 9.75635,-8.2525 l 0.0106,-0.015 0.005,-0.017 c 5.13265,-6.5329 7.74598,-14.3982 7.74598,-23.0426 0,-9.0749 -2.52635,-17.2957 -7.55602,-24.1826 -4.9194,-6.7359 -11.02203,-11.4421 -18.10911,-13.6715 -6.74722,-2.1227 -14.91653,-3.1078 -24.5887,-3.1078 z m -27.20591,28.3877 h 26.78906 c 4.97336,0 8.99297,1.2876 12.54762,3.9099 l 0.0158,0.015 0.0211,0.015 c 3.14671,2.2696 4.70142,5.4801 4.70142,11.1547 0,5.0664 -1.45027,8.7128 -4.48508,11.8037 l -0.0158,0.015 -0.0158,0.017 c -2.88429,2.9935 -6.64308,4.5114 -12.24687,4.5114 h -27.31139 z m 0,59.8097 h 29.29544 c 6.07021,0 10.35941,1.5967 13.65568,4.6697 l 0.0158,0.015 0.0106,0.015 c 3.40843,3.1244 4.95995,6.7088 4.95995,11.7614 0,5.3874 -1.55593,9.0168 -4.82276,11.9514 l -0.0158,0.015 -0.0158,0.015 c -3.18103,2.9065 -7.56544,4.485 -13.89316,4.485 h -29.18986 z"
-           id="path896"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.57675505px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 156.77183,1744.4299 H -0.01550058 l 0.93042868,2.4434 0.0200877,0.059 4.6588393,12.2161 0.020088,0.059 3.5008202,9.1838 1.1580157,3.0323 46.86953,122.9505 H 166.90616 L 142.7418,1832.9 H 58.460964 L 34.296589,1771.4244 H 142.25313 l 46.8762,122.9507 h 24.80699 l -46.87621,-122.9507 -2.33611,-6.1379 -2.34282,-6.1384 -4.67891,-12.2762 z"
+           id="path987"
            inkscape:connector-curvature="0" />
       </g>
     </g>
