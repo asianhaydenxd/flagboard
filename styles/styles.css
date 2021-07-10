@@ -147,14 +147,14 @@ body section .featured-quizzes .quiz-widget {
   float: left;
   margin-right: 10px;
   margin-bottom: 10px;
-  width: 310px;
-  height: 325px;
+  width: 275px;
+  height: 305px;
 }
 
 body section .featured-quizzes .quiz-widget .flag img {
   display: block;
   margin: auto;
-  height: 150px;
+  height: 130px;
   padding-bottom: 10px;
 }
 
